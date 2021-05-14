@@ -1,0 +1,5 @@
+# Rom files #
+roms/*
+
+# Executable #
+chip8
